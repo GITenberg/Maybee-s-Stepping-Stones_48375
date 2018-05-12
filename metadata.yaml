@@ -1,10 +1,16 @@
 _repo: Maybee-s-Stepping-Stones_48375
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48375-h/images/cover.jpg
 creator:
   author:
     agent_name: Fell, Archie
     gutenberg_agent_id: '44764'
     url: http://www.gutenberg.org/2009/agents/44764
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48375#Maybee-s-Stepping-Stones
 gutenberg_issued: '2015-02-28'
 gutenberg_type: Text
 identifiers:
